@@ -73,7 +73,7 @@ export default function SearchAppBar() {
             component="div"
             sx={{ flexGrow: 1, display: { xs: 'none', sm: 'block' } }}
           >
-            Sample
+            Sample 1
           </Typography>
           <Search>
             <SearchIconWrapper>
